@@ -1,0 +1,39 @@
+.App {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid silver;
+  box-sizing: border-box;
+  width: 60%;
+  border-radius: 10px;
+  position: relative;
+  margin: 0 auto;
+  padding: 40px;
+  box-shadow: 1px 1px 1px 2px silver;
+  margin-top:  200px;
+}
+
+.box {
+  height: 100%;
+  width: 100%;
+ 
+}
+
+h1 {
+  border-bottom: 3px solid silver;
+  
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+
+}
+
+.button1 {
+  float: right;
+}
